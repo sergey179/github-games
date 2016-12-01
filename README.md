@@ -1,10 +1,8 @@
 ## Welcome to GitHub Games
-Sergey's changes....
-....:wq
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: http://githubschool.github.io/github-games/
+You can play the game at: http://sergey179.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
